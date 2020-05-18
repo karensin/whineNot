@@ -3,6 +3,7 @@
   "name": "npx",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://api.globalwinescore.com/globalwinescores/latest/?wine_id=&vintage=2000&color=&is_primeurs=&lwin=1014033&lwin_11=10140332000&limit=100&offset=100&ordering=-date",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
