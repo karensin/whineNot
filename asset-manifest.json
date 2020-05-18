@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio2019/whineNot/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio2019/whineNot/static/js/main.c515ef09.chunk.js",
-    "main.js.map": "/portfolio2019/whineNot/static/js/main.c515ef09.chunk.js.map",
-    "runtime-main.js": "/portfolio2019/whineNot/static/js/runtime-main.e9f1b0db.js",
-    "runtime-main.js.map": "/portfolio2019/whineNot/static/js/runtime-main.e9f1b0db.js.map",
-    "static/js/2.d94c4e8c.chunk.js": "/portfolio2019/whineNot/static/js/2.d94c4e8c.chunk.js",
-    "static/js/2.d94c4e8c.chunk.js.map": "/portfolio2019/whineNot/static/js/2.d94c4e8c.chunk.js.map",
-    "index.html": "/portfolio2019/whineNot/index.html",
-    "precache-manifest.11033be82d0818a92b7634811a0300f3.js": "/portfolio2019/whineNot/precache-manifest.11033be82d0818a92b7634811a0300f3.js",
-    "service-worker.js": "/portfolio2019/whineNot/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/portfolio2019/whineNot/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d94c4e8c.chunk.js.LICENSE.txt": "/portfolio2019/whineNot/static/js/2.d94c4e8c.chunk.js.LICENSE.txt"
+    "main.css": "/whineNot/static/css/main.5f361e03.chunk.css",
+    "main.js": "/whineNot/static/js/main.ffbd083e.chunk.js",
+    "main.js.map": "/whineNot/static/js/main.ffbd083e.chunk.js.map",
+    "runtime-main.js": "/whineNot/static/js/runtime-main.73a98103.js",
+    "runtime-main.js.map": "/whineNot/static/js/runtime-main.73a98103.js.map",
+    "static/js/2.d94c4e8c.chunk.js": "/whineNot/static/js/2.d94c4e8c.chunk.js",
+    "static/js/2.d94c4e8c.chunk.js.map": "/whineNot/static/js/2.d94c4e8c.chunk.js.map",
+    "index.html": "/whineNot/index.html",
+    "precache-manifest.7778b94351022bc7b2eca0861daee060.js": "/whineNot/precache-manifest.7778b94351022bc7b2eca0861daee060.js",
+    "service-worker.js": "/whineNot/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/whineNot/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d94c4e8c.chunk.js.LICENSE.txt": "/whineNot/static/js/2.d94c4e8c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9f1b0db.js",
+    "static/js/runtime-main.73a98103.js",
     "static/js/2.d94c4e8c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c515ef09.chunk.js"
+    "static/js/main.ffbd083e.chunk.js"
   ]
 }
